@@ -54,7 +54,8 @@
  - -[]でチェックボックス（[]の中にxを入れるとレ点入り）
  - #で見出し１、##で見出し２、と続く
  - 記号と文字の間には半角スペースを入れる
- - [参考リンク](https://notepm.jp/help/how-to-markdown)
+
+[参考リンク](https://notepm.jp/help/how-to-markdown)
 
 ## 英語で聞く
  - 英語で聞いて、日本語に翻訳
