@@ -10,3 +10,4 @@
 - [Towards Digital Nature: Bridging the Gap between Turing Machine Objects and Linguistic Objects in LLMMs for Universal Interaction of Object-Oriented Descriptions](https://arxiv.org/pdf/2304.04498.pdf?fbclid=IwAR2cAhJOUl5uZat8is6BbB8sM4gSW98CIFeNyfxvUs3qE-QxttlAM2g6E1k)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/jp)
 - [OpenAI GPT best practices](https://platform.openai.com/docs/guides/gpt-best-practices)
+- [スクールエージェント株式会社](https://www.schoolagent.co.jp/)
